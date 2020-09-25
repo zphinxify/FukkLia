@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Po4ypiFQ6bNgXrOmXpZ8si+ZCbcDMI1R5EYmG4ZgziUzKDHJAR714GXnL2NfZMpAN6tyfI8yKfC2L3UOrtimMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benja\\source\\repos\\LiaFind\\LiaFind\\LiaFind.iOS\\LiaFind.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

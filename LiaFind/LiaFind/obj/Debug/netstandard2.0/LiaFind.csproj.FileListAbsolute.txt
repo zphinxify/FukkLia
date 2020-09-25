@@ -1,0 +1,14 @@
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\bin\Debug\netstandard2.0\LiaFind.deps.json
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\bin\Debug\netstandard2.0\LiaFind.dll
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\bin\Debug\netstandard2.0\ref\LiaFind.dll
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\bin\Debug\netstandard2.0\LiaFind.pdb
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\LiaFind.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\LiaFind.AssemblyInfoInputs.cache
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\LiaFind.AssemblyInfo.cs
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\LiaFind.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\LiaFind.dll
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\ref\LiaFind.dll
+C:\Users\benja\source\repos\LiaFind\LiaFind\LiaFind\obj\Debug\netstandard2.0\LiaFind.pdb
